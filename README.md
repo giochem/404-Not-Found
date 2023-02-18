@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://giochem.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/giochem/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -51,5 +51,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
--   Website [your-website.com](https://{your-web-site-link})
--   GitHub [@your-username](https://github.com/giochem)
+-   GitHub [@giochem](https://github.com/giochem)
